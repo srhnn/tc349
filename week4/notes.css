@@ -1,0 +1,39 @@
+body {
+	font-family: Helvetica;
+}
+
+h1 {
+	position: fixed;
+	left: -150px;
+	top: 25%;
+	transform: rotate(270deg);
+	-webkit-transform: rotate(270deg);
+	font-size: 125px;
+	color: #5a547a;
+}
+
+h2 {
+	color: #7c67aa;
+	font-size: 30px;
+}
+
+img {
+	display: inline;
+	float: left;
+}
+
+div {
+	margin-left: 150px;
+	}
+	
+p {
+	text-indent: 25px;
+}
+
+div.content {
+	float: left;
+	color: #352f53;
+	width: 500px;
+	margin: 25px;
+	padding: 50px 25px 100px;
+}
